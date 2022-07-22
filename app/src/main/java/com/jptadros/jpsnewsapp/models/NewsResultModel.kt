@@ -7,7 +7,7 @@ data class NewsResultModel(
     val copyright: String? = null,
 
     @Json(name="response")
-    val response: NewsResultModel? = null,
+    val response: String? = null,
 
     @Json(name="status")
     val status: String? = null,
