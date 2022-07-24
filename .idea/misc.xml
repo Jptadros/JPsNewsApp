@@ -13,12 +13,14 @@
         <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsApp/app/src/main/res/layout/fragment_home1.xml" value="0.35625" />
         <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsApp/app/src/main/res/layout/fragment_login.xml" value="0.209375" />
         <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsApp/app/src/main/res/layout/fragment_sign_up.xml" value="0.25" />
-        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsApp/app/src/main/res/layout/news_fragment.xml" value="0.1" />
-        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsApp/app/src/main/res/layout/news_item.xml" value="0.1" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsApp/app/src/main/res/layout/fragment_web_news.xml" value="0.1" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsApp/app/src/main/res/layout/news_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/jpt_3/AndroidStudioProjects/JPsNewsApp/app/src/main/res/layout/news_item.xml" value="0.33" />
       </map>
     </option>
   </component>
   <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jptadros/jpsnewsapp/apiconnection/JsonToNewsData.kt" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
